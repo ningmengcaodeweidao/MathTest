@@ -1,5 +1,5 @@
 # mathtest
-
+生成加减乘除练习题 | 支持打印、答案页和图片下载
 ## Project setup
 ```
 npm install
