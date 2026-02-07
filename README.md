@@ -1,2 +1,24 @@
-# MathTest
-生成小学数学测试题，支持 打印，支持生成图片打印，支持多列，支持加减乘除。支持自定义题目数量
+# mathtest
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
